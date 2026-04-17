@@ -67,7 +67,7 @@ Cloud-based SOC environment integrating SIEM, endpoint telemetry, network monito
 
 RDP Brute Force → Successful Login → PowerShell Payload → Execution → Command & Control (C2) → Data Exfiltration
 
-![Attack Flow](screenshots/attack-flow-diagram.png)
+![Attack Flow](screenshots/attack-flow-diagram.png.png)
 
 ---
 
