@@ -88,7 +88,10 @@ RDP Brute Force → Successful Login → PowerShell Payload → Execution → Co
 ## Investigation Evidence
 
 ### 1. Initial Access — RDP Brute Force
-*(Insert Kibana dashboard showing failed logons)*
+
+Kibana dashboard showing high-volume failed RDP authentication attempts from multiple external IP addresses, followed by successful login activity.
+
+![RDP Brute Force](screenshots/rdp-bruteforce-authentication-dashboard.png)
 
 ### 2. Successful Authentication — Administrator Login
 *(Insert Event ID 4624 evidence)*
